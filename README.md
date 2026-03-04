@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThePrinceM/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/ThePrinceM/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ThePrinceM/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,4 +26,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ThePrinceM/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ThePrinceM/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 <!---LeetCode Topics End-->
