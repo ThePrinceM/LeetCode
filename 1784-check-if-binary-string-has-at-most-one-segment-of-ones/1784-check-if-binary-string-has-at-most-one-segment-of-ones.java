@@ -7,7 +7,7 @@ class Solution {
         while (right < ch.length) {
             if (left == right) {
                 right++;
-                if (right < ch.length && ch[left] == '1' && ch[right] == '1') {}
+                
             }
             if (right < ch.length && ch[right] == '0') {
                 left = right;
