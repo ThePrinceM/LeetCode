@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ThePrinceM/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ThePrinceM/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ThePrinceM/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ThePrinceM/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ThePrinceM/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ThePrinceM/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ThePrinceM/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 <!---LeetCode Topics End-->
