@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThePrinceM/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0189-rotate-array](https://github.com/ThePrinceM/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ThePrinceM/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ThePrinceM/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ThePrinceM/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ThePrinceM/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0189-rotate-array](https://github.com/ThePrinceM/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ThePrinceM/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0504-base-7](https://github.com/ThePrinceM/LeetCode/tree/main/0504-base-7/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/ThePrinceM/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/ThePrinceM/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ThePrinceM/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ThePrinceM/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Greedy
