@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/ThePrinceM/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ThePrinceM/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ThePrinceM/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ThePrinceM/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ThePrinceM/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ThePrinceM/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ThePrinceM/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
