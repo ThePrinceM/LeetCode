@@ -14,6 +14,8 @@ class Solution {
         ListNode fast=head;
         //base case
         if(head==null || head.next==null || k==0) return head;
+
+        //find the length
         ListNode temp = head;
         int len = 1;
         while (temp.next != null) {
@@ -21,7 +23,7 @@ class Solution {
             len++;
         }
 
-        // Step 2: Optimize k
+        // Optimize k if after rotating it becomes the same
         k = k % len;
         if (k == 0) {
             return head;
