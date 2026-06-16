@@ -8,7 +8,7 @@ class Solution {
                     sb.deleteCharAt(sb.length() - 1);
                 }
             } else if (c == '#') {
-                sb.append(sb.toString()); // ✅ duplicate correctly
+                sb.append(sb.toString()); 
             } else if (c == '%') {
                 sb.reverse();
             } else {
