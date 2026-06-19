@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/ThePrinceM/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0189-rotate-array](https://github.com/ThePrinceM/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ThePrinceM/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0682-baseball-game](https://github.com/ThePrinceM/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ThePrinceM/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ThePrinceM/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ThePrinceM/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/ThePrinceM/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ThePrinceM/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/ThePrinceM/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ThePrinceM/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -166,5 +168,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/ThePrinceM/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ThePrinceM/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
