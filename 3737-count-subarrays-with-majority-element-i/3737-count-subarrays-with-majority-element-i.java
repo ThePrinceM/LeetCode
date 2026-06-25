@@ -6,7 +6,9 @@ class Solution {
         for (int i = 0; i < n; ++i) {
             int cnt = 0;
             for (int j = i; j < n; ++j) {
-                cnt += (nums[j] == target ? 1 : -1);
+                if(nums[j]==target){
+                    cnt+=1;
+                }else cnt+=-1;
                 if (cnt > 0) {
                     ++ans;
                 }
