@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/ThePrinceM/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ThePrinceM/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ThePrinceM/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ThePrinceM/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/ThePrinceM/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0148-sort-list](https://github.com/ThePrinceM/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ThePrinceM/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/ThePrinceM/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ThePrinceM/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ThePrinceM/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/ThePrinceM/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ThePrinceM/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ThePrinceM/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ThePrinceM/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -192,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0148-sort-list](https://github.com/ThePrinceM/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ThePrinceM/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,4 +215,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ThePrinceM/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->
