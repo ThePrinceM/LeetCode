@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ThePrinceM/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/ThePrinceM/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0504-base-7](https://github.com/ThePrinceM/LeetCode/tree/main/0504-base-7/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ThePrinceM/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ThePrinceM/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/ThePrinceM/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0682-baseball-game](https://github.com/ThePrinceM/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ThePrinceM/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
