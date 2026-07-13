@@ -283,4 +283,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/ThePrinceM/LeetCode/tree/main/0155-min-stack/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/ThePrinceM/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
