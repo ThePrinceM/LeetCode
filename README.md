@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ThePrinceM/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ThePrinceM/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ThePrinceM/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/ThePrinceM/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/ThePrinceM/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ThePrinceM/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ThePrinceM/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ThePrinceM/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ThePrinceM/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0504-base-7](https://github.com/ThePrinceM/LeetCode/tree/main/0504-base-7/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/ThePrinceM/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ThePrinceM/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/ThePrinceM/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ThePrinceM/LeetCode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0148-sort-list](https://github.com/ThePrinceM/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0268-missing-number](https://github.com/ThePrinceM/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/ThePrinceM/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/ThePrinceM/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ThePrinceM/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ThePrinceM/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
