@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/ThePrinceM/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/ThePrinceM/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ThePrinceM/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ThePrinceM/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/ThePrinceM/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/ThePrinceM/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ThePrinceM/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/ThePrinceM/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/ThePrinceM/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ThePrinceM/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ThePrinceM/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ThePrinceM/LeetCode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/ThePrinceM/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ThePrinceM/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/ThePrinceM/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/ThePrinceM/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ThePrinceM/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ThePrinceM/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ThePrinceM/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/ThePrinceM/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/ThePrinceM/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/ThePrinceM/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/ThePrinceM/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/ThePrinceM/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ThePrinceM/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ThePrinceM/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
