@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ThePrinceM/LeetCode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ThePrinceM/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ThePrinceM/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ThePrinceM/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ThePrinceM/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ThePrinceM/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/ThePrinceM/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ThePrinceM/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/ThePrinceM/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ThePrinceM/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ThePrinceM/LeetCode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ThePrinceM/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ThePrinceM/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/ThePrinceM/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ThePrinceM/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ThePrinceM/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ThePrinceM/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
