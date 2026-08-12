@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/ThePrinceM/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ThePrinceM/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ThePrinceM/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ThePrinceM/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ThePrinceM/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ThePrinceM/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ThePrinceM/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/ThePrinceM/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/ThePrinceM/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ThePrinceM/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ThePrinceM/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ThePrinceM/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ThePrinceM/LeetCode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ThePrinceM/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ThePrinceM/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ThePrinceM/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ThePrinceM/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ThePrinceM/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
