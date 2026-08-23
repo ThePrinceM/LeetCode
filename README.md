@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ThePrinceM/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/ThePrinceM/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0257-binary-tree-paths](https://github.com/ThePrinceM/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/ThePrinceM/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0504-base-7](https://github.com/ThePrinceM/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0649-dota2-senate](https://github.com/ThePrinceM/LeetCode/tree/main/0649-dota2-senate/) | Medium |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/ThePrinceM/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
@@ -434,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/ThePrinceM/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -444,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/ThePrinceM/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -454,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/ThePrinceM/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
