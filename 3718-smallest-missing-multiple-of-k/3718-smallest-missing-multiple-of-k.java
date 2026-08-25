@@ -6,12 +6,9 @@ class Solution {
         for(int i=0;i<n;i++){
             set.add(nums[i]);
         }
-        int i=1;
-        while(true){
-            if(set.contains(i*k)) {
-                i++;
-                continue;
-            }
+        
+        for(int i=1;;i++){
+            if(set.contains(i*k)) continue;
             else return i*k;
         }
     }
