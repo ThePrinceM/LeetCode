@@ -15,30 +15,23 @@
  */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        int height=levelsOfTree(root);
-        List<List<Integer>> lst=new ArrayList<>();
-        for(int i=0;i<height;i++){
-            List<Integer> al=new ArrayList<>();
-            nthLevel(root,0,i,al);
-            lst.add(al);
-        }
-        return lst;
-        
-    }
+        List<List<Integer>> result = new ArrayList<>();
+        if (root == null) return result;
 
-    public void nthLevel(TreeNode root, int current, int target, List<Integer> list){ 
-        // target -> elements of which level we need to print
-        if(root == null) return;
-        if(current == target ) {
-         list.add(root.val);
-         return;
-        }
-        nthLevel(root.left,current+ 1,target, list);
-        nthLevel(root.right,current+ 1,target, list);
-    }
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
 
-    public int levelsOfTree(TreeNode root){
-        if(root == null) return 0;
-        return 1 + Math.max(levelsOfTree(root.left) ,levelsOfTree(root.right));
+        while (!q.isEmpty()) {
+            int size = q.size();
+            List<Integer> level = new ArrayList<>();
+            for (int i = 0; i < size; i++) {
+                TreeNode node = q.poll();
+                level.add(node.val);
+                if (node.left != null) q.add(node.left);
+                if (node.right != null) q.add(node.right);
+            }
+            result.add(level);
+        }
+        return result;
     }
 }
