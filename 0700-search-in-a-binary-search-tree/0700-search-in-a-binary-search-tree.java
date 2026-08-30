@@ -18,10 +18,7 @@ class Solution {
         TreeNode tree = new TreeNode();
         if(root == null) return null;
         if(root.val == num) {
-            tree = root;
-            // tree.left = root.left;
-            // tree.right = root.right;
-            return tree;
+            return root;
         }else if(root.val < num){
             return searchBST(root.right, num);
         }else return searchBST(root.left, num);
