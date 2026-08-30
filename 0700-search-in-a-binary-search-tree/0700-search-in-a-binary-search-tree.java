@@ -19,8 +19,8 @@ class Solution {
         if(root == null) return null;
         if(root.val == num) {
             tree = root;
-            tree.left = root.left;
-            tree.right = root.right;
+            // tree.left = root.left;
+            // tree.right = root.right;
             return tree;
         }else if(root.val < num){
             return searchBST(root.right, num);
