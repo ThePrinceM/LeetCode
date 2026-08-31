@@ -15,19 +15,28 @@
  */
 class Solution {
 
-    public void inorder(TreeNode root, List<Integer> ls){
-        if(root == null) return;
-        inorder(root.left, ls);
-        ls.add(root.val);
-        inorder(root.right, ls);
+    public int minNode(TreeNode root){
+        if (root == null) return Integer.MAX_VALUE;
+        if (root.left == null) return root.val;
+        return minNode(root.left);
     }
+
+    public int maxNode(TreeNode root){
+        if (root == null) return Integer.MIN_VALUE;
+        if (root.right == null) return root.val;
+        return maxNode(root.right);
+    }
+
     public boolean isValidBST(TreeNode root) {
-        List<Integer> ls = new ArrayList<>();
-        inorder(root, ls);
-        for( int i =1; i<ls.size(); i++){
-            if(ls.get(i)>ls.get(i-1)) continue;
-            else return false;
-        }
-        return true;
+        if (root == null) return true;
+
+        // check that all nodes in left subtree are < root.val
+        if (root.left != null && maxNode(root.left) >= root.val) return false;
+
+        // check that all nodes in right subtree are > root.val
+        if (root.right != null && minNode(root.right) <= root.val) return false;
+
+        // recursively ensure left and right subtrees are valid BSTs
+        return isValidBST(root.left) && isValidBST(root.right);
     }
 }
