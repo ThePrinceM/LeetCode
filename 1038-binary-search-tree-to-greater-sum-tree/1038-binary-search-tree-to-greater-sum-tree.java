@@ -15,20 +15,17 @@
  */
 class Solution {
 
-    public void inorder(TreeNode root, List<TreeNode> ls){
-        if(root == null) return;
-        inorder(root.left, ls);
-        ls.add(root);
-        inorder(root.right, ls);
+    public void revInorder(TreeNode root, int[] s){
+        if( root == null) return;
+        revInorder(root.right, s);
+        root.val += s[0];
+        s[0] = root.val;
+        revInorder(root.left, s);
     }
 
     public TreeNode bstToGst(TreeNode root) {
-        List<TreeNode> ans = new ArrayList<>();
-        if( root == null) return null;
-        inorder(root, ans);
-        for(int i=ans.size()-2 ; i >= 0; i--){
-            ans.get(i).val = ans.get(i).val + ans.get(i+1).val;
-        }
+        int[] sum = {0};
+        revInorder(root, sum);
         return root;
     }
 }
