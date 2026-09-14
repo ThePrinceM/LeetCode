@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/ThePrinceM/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/ThePrinceM/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0189-rotate-array](https://github.com/ThePrinceM/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ThePrinceM/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/ThePrinceM/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThePrinceM/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/ThePrinceM/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ThePrinceM/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ThePrinceM/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/ThePrinceM/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
@@ -519,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ThePrinceM/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/ThePrinceM/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
@@ -556,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ThePrinceM/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
