@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/ThePrinceM/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/ThePrinceM/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ThePrinceM/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1140-stone-game-ii](https://github.com/ThePrinceM/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ThePrinceM/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ThePrinceM/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/ThePrinceM/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/ThePrinceM/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ThePrinceM/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ThePrinceM/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ThePrinceM/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ThePrinceM/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/ThePrinceM/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ThePrinceM/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ThePrinceM/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ThePrinceM/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -487,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ThePrinceM/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/ThePrinceM/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ThePrinceM/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -541,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ThePrinceM/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/ThePrinceM/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ThePrinceM/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -566,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/ThePrinceM/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ThePrinceM/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
