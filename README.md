@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ThePrinceM/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3592-inverse-coin-change](https://github.com/ThePrinceM/LeetCode/tree/main/3592-inverse-coin-change/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ThePrinceM/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ThePrinceM/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ThePrinceM/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ThePrinceM/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ThePrinceM/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3592-inverse-coin-change](https://github.com/ThePrinceM/LeetCode/tree/main/3592-inverse-coin-change/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ThePrinceM/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Database
