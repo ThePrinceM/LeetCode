@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ThePrinceM/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/ThePrinceM/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
