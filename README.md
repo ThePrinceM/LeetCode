@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/ThePrinceM/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ThePrinceM/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/ThePrinceM/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/ThePrinceM/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ThePrinceM/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1140-stone-game-ii](https://github.com/ThePrinceM/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/ThePrinceM/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ThePrinceM/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/ThePrinceM/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ThePrinceM/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sliding Window
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/ThePrinceM/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/ThePrinceM/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/ThePrinceM/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/ThePrinceM/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1140-stone-game-ii](https://github.com/ThePrinceM/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ThePrinceM/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ThePrinceM/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -333,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/ThePrinceM/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/ThePrinceM/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ThePrinceM/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/ThePrinceM/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ThePrinceM/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ThePrinceM/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ThePrinceM/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -415,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ThePrinceM/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ThePrinceM/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/ThePrinceM/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ThePrinceM/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ThePrinceM/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
@@ -611,14 +616,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ThePrinceM/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/ThePrinceM/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ThePrinceM/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ThePrinceM/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/ThePrinceM/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ThePrinceM/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ThePrinceM/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ThePrinceM/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
