@@ -30,8 +30,7 @@ class Solution {
         while(!pq.isEmpty() ){
             Triplet t = pq.poll();
             ans[idx][0] = t.x;
-            ans[idx][1] = t.y;
-            idx++;
+            ans[idx++][1] = t.y;
         }
         return ans;
     }
