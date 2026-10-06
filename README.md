@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/ThePrinceM/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0649-dota2-senate](https://github.com/ThePrinceM/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ThePrinceM/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ThePrinceM/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ThePrinceM/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ThePrinceM/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ThePrinceM/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ThePrinceM/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0649-dota2-senate](https://github.com/ThePrinceM/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ThePrinceM/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ThePrinceM/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ThePrinceM/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ThePrinceM/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/ThePrinceM/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/ThePrinceM/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ThePrinceM/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ThePrinceM/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ThePrinceM/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ThePrinceM/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ThePrinceM/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -627,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ThePrinceM/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ThePrinceM/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ThePrinceM/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## K-D Tree
 | Problem Name | Difficulty |
