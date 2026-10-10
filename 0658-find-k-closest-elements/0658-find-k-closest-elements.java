@@ -9,21 +9,19 @@ class Solution {
         }
 
         public int compareTo(dist d){
-            if(this.distance != d.distance){
-                return d.distance - this.distance;
-            }
-            return d.a - this.a;
+            if(this.distance == d.distance) return this.a - d.a;
+            return this.distance - d.distance;
         }
 
     }
 
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
-        PriorityQueue<dist> pq = new PriorityQueue<>();
+        PriorityQueue<dist> pq = new PriorityQueue<>(Collections.reverseOrder());
         List<Integer> l = new ArrayList<>(k);
         for(int i = 0;i<arr.length; i++){
             int a = arr[i];
             int d = Math.abs(a - x);
-            pq.add(new dist( a, d));
+            pq.add(new dist(a, d));
             if(pq.size() > k){
                 pq.poll();
             }
