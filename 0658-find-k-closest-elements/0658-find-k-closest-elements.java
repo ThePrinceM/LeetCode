@@ -2,10 +2,8 @@ class Solution {
 
     class dist implements Comparable<dist>{
         int distance;
-        int x;
         int a;
-        dist(int x,int a,int distance){
-            this.x = x;
+        dist(int a,int distance){
             this.a = a;
             this.distance = distance;
         }
@@ -25,7 +23,7 @@ class Solution {
         for(int i = 0;i<arr.length; i++){
             int a = arr[i];
             int d = Math.abs(a - x);
-            pq.add(new dist(x, a, d));
+            pq.add(new dist( a, d));
             if(pq.size() > k){
                 pq.poll();
             }
