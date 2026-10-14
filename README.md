@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/ThePrinceM/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/ThePrinceM/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/ThePrinceM/LeetCode/tree/main/0595-big-countries/) | Easy |
+| [0620-not-boring-movies](https://github.com/ThePrinceM/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/ThePrinceM/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/ThePrinceM/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1280-students-and-examinations](https://github.com/ThePrinceM/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
