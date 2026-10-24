@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ThePrinceM/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ThePrinceM/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ThePrinceM/LeetCode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
+| [2409-count-days-spent-together](https://github.com/ThePrinceM/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ThePrinceM/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ThePrinceM/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ThePrinceM/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/ThePrinceM/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ThePrinceM/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1840-maximum-building-height](https://github.com/ThePrinceM/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
+| [2409-count-days-spent-together](https://github.com/ThePrinceM/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ThePrinceM/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ThePrinceM/LeetCode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ThePrinceM/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
