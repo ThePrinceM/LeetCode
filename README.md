@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ThePrinceM/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ThePrinceM/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3592-inverse-coin-change](https://github.com/ThePrinceM/LeetCode/tree/main/3592-inverse-coin-change/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ThePrinceM/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ThePrinceM/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ThePrinceM/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ThePrinceM/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ThePrinceM/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ThePrinceM/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ThePrinceM/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -430,11 +432,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/ThePrinceM/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/ThePrinceM/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ThePrinceM/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ThePrinceM/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ThePrinceM/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ThePrinceM/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ThePrinceM/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -568,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0872-leaf-similar-trees](https://github.com/ThePrinceM/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/ThePrinceM/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ThePrinceM/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ThePrinceM/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
